@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\ITERATORPROYEC\PRINCIPAL\obj\Debug\PRINCIPAL.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ITERATORPROYEC\PRINCIPAL\obj\Debug\PRINCIPAL.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ITERATORPROYEC\PRINCIPAL\obj\Debug\PRINCIPAL.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ITERATORPROYEC\PRINCIPAL\obj\Debug\PRINCIPAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ITERATORPROYEC\PRINCIPAL\bin\Debug\PRINCIPAL.exe.config
+C:\Users\Usuario\source\repos\ITERATORPROYEC\PRINCIPAL\bin\Debug\PRINCIPAL.exe
+C:\Users\Usuario\source\repos\ITERATORPROYEC\PRINCIPAL\bin\Debug\PRINCIPAL.pdb
+C:\Users\Usuario\source\repos\ITERATORPROYEC\PRINCIPAL\obj\Debug\PRINCIPAL.Form1.resources
+C:\Users\Usuario\source\repos\ITERATORPROYEC\PRINCIPAL\obj\Debug\PRINCIPAL.exe
+C:\Users\Usuario\source\repos\ITERATORPROYEC\PRINCIPAL\obj\Debug\PRINCIPAL.pdb
